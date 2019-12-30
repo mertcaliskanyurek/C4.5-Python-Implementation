@@ -1,0 +1,8 @@
+credit_history,credit_amount,employment,property_magnitude,age,class
+'existing paid',10366,>=7,'life insurance',42,good
+'critical/other existing credit',1872,unemployed,'no known property',36,good
+'existing paid',10366,1<=X<4,car,42,bad
+'existing paid',1391,1<=X<4,'life insurance',40,bad
+'existing paid',10366,1<=X<4,'real estate',24,bad
+'existing paid',1391,1<=X<4,'real estate',24,good
+'critical/other existing credit',1391,>=7,'real estate',24,good
