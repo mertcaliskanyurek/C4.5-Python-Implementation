@@ -3,6 +3,8 @@ Creates tree recursively in c45 function and prints tree
 
 Here is an example print for dataset Tennis:
 
+```
+
 `- root - 
    |- outlook - sunny
    |  |- humidity - high
@@ -16,6 +18,7 @@ Here is an example print for dataset Tennis:
       |  `- play - yes
       `- windy - true
          `- play - no
+```
 
 Here is referance to pprint function:
 https://vallentin.dev/2016/11/29/pretty-print-tree
