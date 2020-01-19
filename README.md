@@ -1,4 +1,5 @@
 This is an implementation of C4.5 algorithm in python.
+Makes 'binary' classification.
 Creates tree recursively in c45 function and prints tree
 
 Here is an example print for dataset Tennis:
